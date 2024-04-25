@@ -7,14 +7,12 @@ Este é um projeto simples de uma aplicação de lista de tarefas (To-Do List) d
 - Adicionar uma nova tarefa
 - Marcar uma tarefa como concluída
 - Excluir uma tarefa
-- Limpar todas as tarefas concluídas
 
 ## Tecnologias Utilizadas
 
 - JavaScript
 - HTML
 - CSS
-- Local Storage (para armazenamento local das tarefas)
 
 
 ## Instalação
